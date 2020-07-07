@@ -36,6 +36,8 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		//später mehr
+		//viel mehr
 		new Equals();
 		new Minus();
 		new Plus();
